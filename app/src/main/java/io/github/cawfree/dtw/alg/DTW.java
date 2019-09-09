@@ -3,7 +3,7 @@ package io.github.cawfree.dtw.alg;
 /**
  *  A class that implements the awesome Dynamic Time Warping algorithm.
  *  Absolutely all credit for this implementation goes to the developers of the Gesture and Activity Recognition Toolkit, (GART).
- *  @http://trac.research.cc.gatech.edu/GART/browser/GART/weka/edu/gatech/gart/ml/weka/DTW.java?rev=9
+ *  @link http://trac.research.cc.gatech.edu/GART/browser/GART/weka/edu/gatech/gart/ml/weka/DTW.java?rev=9
  **/
 public final class DTW {
 
